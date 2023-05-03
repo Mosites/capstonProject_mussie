@@ -1,0 +1,108 @@
+.main{
+    margin: 100px;
+    
+}
+.top {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.home{
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    justify-content: space-around;
+    gap: 30px;
+    color: grey;
+}
+
+
+.topbtn{
+font-size: 18px;
+border-radius: 100px;
+padding: 10px 30px;
+border: none;
+background: linear-gradient(90deg, rgba(90,221,85,1) 26%,
+ rgba(0,212,255,1) 100%);
+ color: rgb(222, 235, 238);
+
+}
+
+.next{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px 0px;
+}
+.p{
+    color: grey;
+}
+
+.midbtn {  
+font-size: 30px;
+border-radius: 100px;
+padding: 10px 30px;
+border: none;
+background: linear-gradient(90deg, rgba(90,221,85,1) 26%,
+ rgba(0,212,255,1) 100%);
+ color: rgb(222, 235, 238);
+}
+.mobimg{
+    background-image: url('images/bg-intro-desktop.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: -45px;
+    background-position-y: -55px;
+    width: 70%;
+    height: 70%S;
+    margin-left: 100px;
+    
+}
+
+
+.Features {
+    font-weight: 50;
+    width: 40;
+
+}
+
+.service {
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.Articles {
+    display: flex;
+    align-items: flex-start;
+}
+.h{
+left: 100px;
+}
+.currency{
+    width: 250px;
+    height: 250px;
+}
+
+.restaurant{
+    width: 250px;
+    height: 250px;
+}
+.plane{
+    width: 250px;
+    height: 250px;
+}
+.confetti{
+    width: 250px;
+    height: 250px;
+}
+.h3{
+    color: grey;
+}
+
+
+
+
